@@ -1,3 +1,5 @@
+#Take a number and print whether it’s positive, negative, or zero
+
 number = int(input("Enter number: "))
 
 if number > 0:
