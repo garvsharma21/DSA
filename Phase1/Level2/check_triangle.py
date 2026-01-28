@@ -1,3 +1,5 @@
+#Take three sides and check if they form a valid triangle.
+
 side_a = float(input("Enter length of side a: "))
 side_b = float(input("Enter length of side b: "))
 side_c = float(input("Enter length of side c: "))

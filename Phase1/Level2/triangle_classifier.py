@@ -1,3 +1,5 @@
+#If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
+
 side_a = float(input("Enter length of side a: "))
 side_b = float(input("Enter length of side b: "))
 side_c = float(input("Enter length of side c: "))
