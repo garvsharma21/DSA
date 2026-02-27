@@ -4,7 +4,7 @@ def check_palindrome(num, rev=0):
     if num == 0:
         return rev
 
-    return check_palindrome(num // 10, num%10 + rev * 10)
+    return check_palindrome(num // 10, num % 10 + rev * 10)
 
 num = int(input("Enter a positive number: "))
 result = check_palindrome(num)
